@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React meow
+          Learn React meow mix
         </a>
       </header>
     </div>
